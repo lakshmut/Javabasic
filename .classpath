@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-core-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-context-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-web-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-webmvc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-aspects-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-webmvc-portlet-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-websocket-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-boot-1.5.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-boot-autoconfigure-1.4.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/common jars/org-apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/common jars/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmut/IT Technical/spring-framework-4.2.0.RELEASE/libs/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
