@@ -1,0 +1,24 @@
+
+public class TestName {
+
+	public static void main(String[] args) {
+		System.out.println("inside main");
+		String fullName = "";
+		
+		String firstName ="pakistan";
+		
+		String lastName = "india";
+
+		for(int i=0; i<25; i++)
+		{
+			//cause out of memory error
+		 // fullName += fullName + firstName  + lastName;
+		  
+		  //doesnt cause any error
+		  fullName = fullName +firstName  + lastName;
+		  
+		}
+		System.out.println("the fullName is:"+ fullName);
+	}
+
+}
